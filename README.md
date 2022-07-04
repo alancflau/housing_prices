@@ -4,7 +4,7 @@
 
 <h1>Description</h1>
 
-Canada is very known for its hot housing market. Howwever, that sort of data is not readily avaiable to by avid housing readers. Even if it is available, the data may not be fully complete. Luckily, with the use of technology, web scraping made it possible to retrieve this data.
+Canada is very known for its hot housing market. Howwever, that sort of data is not readily avaiable to by avid housing readers. Even if it is available, the data may not be fully complete. Luckily, with the use of technology, web scraping made it possible to retrieve this data. The script in thie repository will collect sold housing data (and features) within the Greater Vancouver Area (Canada)
 
 
 <h1>Preview</h1>
@@ -42,3 +42,9 @@ The dataset will consist the following variables:
 2. Unzip the downloaded file
 3. Run command 'pip install -r requirements.txt' to install the dependencies
 4. Run the project by using python main.py from the directory you have stored the file
+
+
+<h1> Next Steps </h1>
+1. The current script can be run with a push of the button. Next step is to automate such that it runs on a daily basis. This can be done on a server or locally (Task scheduler)
+2. Collect more data and perform analysis which areas are hotspots to purchase a house. Determine the price ranges for each neighborhood/city
+3. Once there is enough data, create a machine learning model to predict the price a house would be sold given a set of attributes
