@@ -44,6 +44,6 @@ The dataset will consist the following variables:
 
 
 <h1> Next Steps </h1>
-1. The current script can be run with a push of the button. Next step is to automate such that it runs on a daily basis. This can be done on a server or locally (Task scheduler)
-2. Collect more data and perform analysis which areas are hotspots to purchase a house. Determine the price ranges for each neighborhood/city
+1. The current script can be run with a push of the button. Next step is to automate such that it runs on a daily basis. This can be done on a server or locally (Task scheduler)<br>
+2. Collect more data and perform analysis which areas are hotspots to purchase a house. Determine the price ranges for each neighborhood/city <br>
 3. Once there is enough data, create a machine learning model to predict the price a house would be sold given a set of attributes
